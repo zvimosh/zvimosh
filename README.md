@@ -1,5 +1,5 @@
-- 👋 Hi, I’m zvi.
-- 👀 I’m working in information security, a part of my job is building custom scripts to integrate between different sfotware.
+- 👋 Hi, I’m Zvi.
+- 👀 I’m working in information security, a part of my job is building custom scripts to integrate between different software.
 - 🌱 I’m currently learning code development mainly for my own knowledge and enjoyment.
 - 💞️ I’m looking to collaborate on any intresting project written in python, java.
 - 📫 you can reach me at t.moshkovitz@gmail.com
