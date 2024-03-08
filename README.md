@@ -10,13 +10,6 @@
   </a>  
 </div>  
 
-<br/>
-
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-</div>  
-<br>
-<br>
 
 <div align="center">
   <strong>Hi, I'm Zvi! 👋</strong>
@@ -30,26 +23,21 @@
 </div>
 
 
-<br/>
 
 <h2 align="center"><strong>🌟 Skills Showcase 🌟</strong></h2>
 
 <div align="center">
   <h3>Core Expertise</h3>
-  <!-- Highlighting DevOps tools -->
   <p><em>DevOps & Cloud Infrastructure:</em> Proficient in automating and optimizing critical deployments using Docker, Kubernetes, Terraform, and Ansible, with hands-on experience in cloud environments like Azure and AWS.</p>
 
   <h3>Comprehensive Technology Stack Knowledge</h3>
-  <!-- Elaborating on the wide range of technologies -->
   <p><em>Software Development & Security:</em> Versatile in multiple programming languages including Python and JavaScript, with a strong foundation in security practices across web security, data loss prevention, and email security.</p>
 
   <p><em>Systems Integration & Network Architecture:</em> Experienced in crafting and implementing robust solutions with technologies like load balancers, databases, and monitoring tools to ensure seamless system operations.</p>
 
   <h3>Professional Leadership and Instruction</h3>
-  <!-- Mention teaching and leadership roles -->
   <p><em>Instruction & Team Leadership:</em> Proven track record as an effective instructor and leader, guiding teams and teaching courses on DLP, Web Security, and Email Administrators while fostering professional growth and innovation within teams.</p>
 
-  <!-- Additional skills related to DevOps -->
   <h3>DevOps Tools & Technologies</h3>
   <p>Here are some of the tools and technologies I've been working with recently:</p>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
