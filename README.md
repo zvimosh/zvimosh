@@ -1,5 +1,43 @@
+</td></tr></table>  
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>  
+
+
+
+<div align="center">
+<a href="https://github.com/zvimosh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/zvi-moshkovitz-a043b8102/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
+<br/>  
+
+
+
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+</div>  
+
+<br>
+<br>
+
+
+<div align="center">Hi, I'm Zvi. <br>
+I'm working in an information security company, as part of my job I learn, use and implement multiple technologies in different technology fields such as Software Development, Security Integration, Penetration Testing, Internal Systems, CI/CD Pipelines and more.
+Lately I have been delving more into DevOps practices, tools and ecosystem..</div>  
+
+
+
+<br/>  
+<h2 align="center">
+🧰 Skills & Tools 🧰
+</h2>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
@@ -26,12 +64,33 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
-- 👋 Hi, I’m Zvi.
-- 👀 I’m working in an information security company, as part of my job I learn, use and implement multiple technologies in different technology fields such as Software Development, Security Integration, Penetration Testing, Internal Systems, CI/CD Pipelines and more.
-- Lately I have been delving more into DevOps practices, tools and ecosystem.
-- 📫 you can reach me at t.moshkovitz@gmail.com
+<br/>  
 
-<!---
-zvimosh/zvimosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<h2 align="center">
+🏆 Github Stats 🏆 
+</h2>
+
+
+<table width="100%">
+<tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zvimosh&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvimosh&hide_border=true&layout=compact" align="center" /></div>  
+</td></tr>
+</table>  
+
+
+
+
+
+<br/>  
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zvimosh&&style=flat-square" align="center" />
+</div>
